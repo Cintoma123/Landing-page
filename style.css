@@ -1,0 +1,266 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    
+}
+body{
+    font-family: sans-serif;
+}
+section{
+    background-color: #1f2937;
+}
+
+.logo{
+    color: black;
+    font-size: 24px;
+    text-transform: capitalize;
+    font-style: inherit;
+     
+}
+.logo span{
+    color: tomato;
+    font-style: inherit;
+}
+nav{
+    display: flex;
+    padding: 0px 6% ;
+    align-items: center;
+    justify-content: space-between;
+    color:#f9faf8
+}
+button{
+    background-color: #3882f6;
+    color: #e5e7eb;
+    font-size: 20px;
+    border-radius:100vh ;
+    
+}
+button .btn-1{
+    font-size: 16px;
+    padding: 6px 50px;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+
+}
+nav ul a{
+    margin:0% 20px ;
+    padding: 5% 0;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    text-transform: capitalize;
+    font-style: inherit;
+
+    
+}
+ 
+    
+.title{
+ font-size: 48px;  
+ color: #f9faf8; 
+}
+.content{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    text-transform: lowercase;
+}
+p{
+    color: #f9faf8
+}
+a{
+    color: #3882f6;
+}
+.btn{
+    
+    text-decoration: none;
+    background: #3882f6;
+    font-size: 15px;
+    text-transform: capitalize;
+    padding: 6px 30px;
+    border-radius: 10px;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+}
+.snacks{
+    
+    width: 200px;
+}
+.image{
+    display: flex;
+    width: 10px;
+    padding: 20px;
+    margin: 0% auto;
+    border: #3882f6;
+    align-items: center;
+    justify-self: center;
+    justify-content: center;
+    align-self:center ;
+    
+}
+.image img{
+    border-radius: 10vh;
+    padding-top: 2px;
+    padding-bottom: 10px;
+}
+.paragraph{
+    color: blue
+}
+.article{
+    display: flex;
+    background-color: #f9faf8;
+    padding: 0px 90px;
+    align-content: center;
+    min-height: 100vh;
+    width:100%;
+    justify-content: center;
+
+}
+.card{
+    box-shadow: 2px 2px 6px 0px rgba (0,0,0,0.3);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    padding: 0% 50px;
+    
+
+}
+.card .style{
+flex: 1;
+margin: 20px 20px;
+}
+
+.card .style img{
+    width: 51.5%;
+    height: auto;
+    border-radius: 10vh;
+    padding-bottom: 10px;
+    
+}
+.card .style h1{
+    margin: 15px 0px;
+    font-size: 28px;
+    color: #3882f6;
+    font-family: sans-serif;
+}
+.card .style div{
+    font-size: 16px;
+    padding: 0px 10px;
+}
+.mine{
+    text-align: center;
+    justify-content: center;
+    align-self: center;
+    align-content: center;
+    color: #3882f6;
+}
+    
+
+
+
+content{
+  background: #e5e7eb;
+  padding: 50px; 
+  display: flex;
+  flex-direction:column;
+
+  
+
+}
+.write-up{
+    font-size: 30px;
+    font-style: italic;
+    color: #1f2937;
+}
+ .meta{
+    color:#3882f6;
+    font-weight: bold;
+    font-size: 16px;
+    align-self: flex-end;
+    padding-top: 10px;
+    
+}
+
+.section{
+    padding: 59px 88px;
+}
+
+
+.call-action{
+    background-color: #3882f6;
+    border-radius: 4px;
+    flex-direction: column;
+    text-align: flex start;
+    padding: 6px 30px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    
+}
+ .col{
+    padding-top: 5px;
+    font-size: 25px;
+    text-transform: capitalize;
+    color: white;
+}
+
+
+button .btn-2{
+    display: flex;
+    border: 4px;
+    align-self: flex-end;
+}
+.let{
+    display: unset;
+    margin: 0% 380px;
+    color:#e5e7eb ;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 100vh
+}
+footer{
+    display: flex;
+    background-color: #1f2937;
+    font-size: 25px;
+    justify-content: center;
+    text-align: center;
+    align-self: center;
+    align-items: center;
+    color: #e5e7eb;
+    text-transform: lowercase;
+}
+    
+
+
+
+    
+
+
+  
+  
+  
+    
+
+
+    
+
+
+
+    
+    
+    
+
+
+
+
+  
+    
+
+    
+    
